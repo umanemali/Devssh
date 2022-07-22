@@ -1,2 +1,2 @@
-#! usr/bin
-mkdir test111
+#! /bin/sh
+echo "I am yet to do " 
